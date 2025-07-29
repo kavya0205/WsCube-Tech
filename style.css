@@ -1,0 +1,274 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.btn {
+    font-size: 0.8rem;
+}
+
+#callus {
+    padding: 3px;
+    color: white;
+    height: 32px;
+    width: 90px;
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.bannerContent h1 {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.bannerContent p {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.bannerContent ul li {
+    font-size: 22px;
+    line-height: 40px;
+    list-style: none;
+}
+
+.bannerContent ul li i {
+    color: #2699FB;
+}
+
+.bannerContent h1 span {
+    color: #2699FB;
+    background-image: url(images/zigzag.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+#demo {
+    border-radius: 10px;
+    font-size: 20px;
+    height: 60px;
+    width: 278px;
+    color: white;
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.btndemo {
+    border-radius: 10px;
+    font-size: 20px;
+    height: 60px;
+    width: 278px;
+    color: white;
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+#curriculum {
+    border-radius: 10px;
+    font-size: 20px;
+    height: 60px;
+    width: 276px;
+    border: 1px solid #D0D5DD;
+}
+
+#register {
+    width: 100%;
+    border-radius: 10px;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+    color: white;
+}
+
+.form {
+    border: 1px solid #D0D5DD;
+    border-radius: 10px;
+}
+
+.data h3 {
+    color: #2699FB;
+    font-weight: 700;
+}
+
+.highlights {
+    background-color: #F7FAFF;
+}
+
+.highlights h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.highlights p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.highlightsPoints p,
+img,
+h4 {
+    display: inline;
+}
+
+.highlightsItems h5 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.highlightsItems p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.option h2 {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.option p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.optionList h5 {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.optionList p {
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.getCertified {
+    background-color: #F7FAFF;
+}
+
+.certified h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.certified p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.certifiedData h5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.certifiedData p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.CDM h1 {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.CDM p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.Cdata li {
+    font-size: 22px;
+    list-style: none;
+    margin: 10px;
+}
+
+.Cdata li i {
+    margin-right: 10px;
+    color: #2699FB;
+}
+
+.WLDM h3 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.WLDM p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.ldmList h5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.ldmList p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.WhatStudentSaying h1 {
+    font-size: 44px;
+    font-weight: bolder;
+}
+
+.WhatStudentSaying p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.Sdata h5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Sdata p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.StartYourCourse {
+    color: white;
+    margin-top: 30p;
+    background-image: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+.StartYourCourse h2 {
+    font-size: 44px;
+    font-weight: 700;
+}
+.StartYourCourse p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.demo2 {
+    border-radius: 10px;
+    font-size: 20px;
+    height: 60px;
+    width: 278px;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+}
+.FAQ h1 {
+    font-size: 44px;
+    font-weight: 700;
+}
+.FAQ p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.companies h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.footerClass {
+    background-color: #0A2540;
+}
+.footerItems p {
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+hr {
+  border-top: 2px solid white; 
+  width: 100%;
+}
